@@ -1,0 +1,53 @@
+body{
+           
+            background-color:#f5d04e;
+            font-family: "Figtree", sans-serif;
+    }
+
+        .head{
+            color:#412d05 ;
+            background-color:#f3d14f ;
+            padding: 5px 5px 5px 10px;
+            width: 70px;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+
+        .image{
+        border-radius: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 400px;
+        height: 200px;
+        display: block;
+        }
+
+        .mycontainer{
+        background-color: #ffffff;
+        padding: 25px 25px 25px 25px;
+        border-radius: 20px;
+        width: 350px;
+        margin: 100px auto;
+        position:relative;
+        box-shadow:8px 8px 0px black ;
+       }
+
+       .image2{
+        border-radius: 50%;
+        width: 30px;
+        height: 30px;
+       }
+
+       .container{
+        display: flex;
+        align-items: center;
+        gap: 15px;
+       }
+
+       p{
+        font-size: 16px;
+       }
+
+       .pra{
+        color: #c1c1c1;
+       }
